@@ -1,1 +1,0 @@
-Ruleset merge test fixture only.
