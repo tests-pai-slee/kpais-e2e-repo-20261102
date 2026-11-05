@@ -1,0 +1,1 @@
+Merge policy verification: multi, commit 2.
