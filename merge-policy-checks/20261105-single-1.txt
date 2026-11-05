@@ -1,0 +1,1 @@
+Merge policy verification: single, commit 1.
